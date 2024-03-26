@@ -25,6 +25,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
 - [Hasan Zaki](https://github.com/Hasanzakii)
 - [Hossein Aghabararian](https://github.com/Hossein-Bararian)
+- [Ali Jahromi](https://github.com/alijahromi)
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
 - [amirali irvany](gitub.com/metect)
 - [SinaSohrab](https://github.com/SinaSohrab)
